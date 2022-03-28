@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="">be0c4abcab1e0110985860887aa99435</page>
+        <required_translations>[{"message":"New Incident","comment":""},{"message":"New Interaction","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 10:11:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>7e0c4abc8f1e0110ca245f1478028a35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Incident Management System(CRUD)" source="x_682682_incident">ea6b82b82f1e0110d8cebcb62799b645</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</sys_scope>
+        <sys_update_name>sys_ux_page_property_7e0c4abc8f1e0110ca245f1478028a35</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 10:11:40</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_682682_incident.be0c4abcab1e0110985860887aa99435.root.chrome_tab</unique_name>
+        <value>{&#13;
+   "contextual":[&#13;
+      "record"&#13;
+   ],&#13;
+   "newTabMenu":[&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Interaction"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"interaction",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         },&#13;
+         "condition":{&#13;
+            "tableDescription":{&#13;
+               "table":"interaction",&#13;
+               "canCreate":true&#13;
+            }&#13;
+         }&#13;
+      },&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Incident"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"incident",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         }&#13;
+      }&#13;
+   ],&#13;
+   "maxMainTabLimit":10,&#13;
+   "maxTotalSubTabLimit":30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</application>
+        <file_path/>
+        <instance_id>70632506dbf0f70442b321c40596196b</instance_id>
+        <instance_name>dev81098</instance_name>
+        <name>sys_ux_page_property_7e0c4abc8f1e0110ca245f1478028a35</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="">be0c4abcab1e0110985860887aa99435</page><required_translations>[{"message":"New Incident","comment":""},{"message":"New Interaction","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 10:11:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>7e0c4abc8f1e0110ca245f1478028a35</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="Incident Management System(CRUD)" source="x_682682_incident">ea6b82b82f1e0110d8cebcb62799b645</sys_package><sys_policy/><sys_scope display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</sys_scope><sys_update_name>sys_ux_page_property_7e0c4abc8f1e0110ca245f1478028a35</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 10:11:40</sys_updated_on><type>json</type><unique_name>x_682682_incident.be0c4abcab1e0110985860887aa99435.root.chrome_tab</unique_name><value>{&#13;
+   "contextual":[&#13;
+      "record"&#13;
+   ],&#13;
+   "newTabMenu":[&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Interaction"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"interaction",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         },&#13;
+         "condition":{&#13;
+            "tableDescription":{&#13;
+               "table":"interaction",&#13;
+               "canCreate":true&#13;
+            }&#13;
+         }&#13;
+      },&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Incident"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"incident",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         }&#13;
+      }&#13;
+   ],&#13;
+   "maxMainTabLimit":10,&#13;
+   "maxTotalSubTabLimit":30&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1128669998</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>c7391b122f010110d8cebcb62799b609</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-17 04:21:18</sys_created_on>
+        <sys_id>8d6fc6702f5e0110d8cebcb62799b6bc</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17e664496300000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>4d6fc6706d5e0110aefd7fe68dc969bc</update_guid>
+        <update_guid_history>4d6fc6706d5e0110aefd7fe68dc969bc:-1128669998</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 10:26:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>5dc3a4987e9a42f0935e2de032168dc4</sys_id>
+        <sys_metadata>7e0c4abc8f1e0110ca245f1478028a35</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Incident Management System(CRUD)" source="x_682682_incident">ea6b82b82f1e0110d8cebcb62799b645</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</sys_scope>
+        <sys_scope_delete display_value="">04b2810d45df44109f1daabc61be3e40</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_7e0c4abc8f1e0110ca245f1478028a35</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_7e0c4abc8f1e0110ca245f1478028a35">8d6fc6702f5e0110d8cebcb62799b6bc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 10:26:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

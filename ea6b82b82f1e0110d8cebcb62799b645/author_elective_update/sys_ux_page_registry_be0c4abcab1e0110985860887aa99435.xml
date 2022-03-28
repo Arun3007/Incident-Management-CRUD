@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>b60c4abcf01e01107adbda2632d40633</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <path>incident-management-systemcrud</path>
+        <root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 10:11:40</sys_created_on>
+        <sys_id>be0c4abcab1e0110985860887aa99435</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Management System(CRUD)</sys_name>
+        <sys_package display_value="Incident Management System(CRUD)" source="x_682682_incident">ea6b82b82f1e0110d8cebcb62799b645</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</sys_scope>
+        <sys_update_name>sys_ux_page_registry_be0c4abcab1e0110985860887aa99435</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 10:11:40</sys_updated_on>
+        <title>Incident Management System(CRUD)</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</application>
+        <file_path/>
+        <instance_id>70632506dbf0f70442b321c40596196b</instance_id>
+        <instance_name>dev81098</instance_name>
+        <name>sys_ux_page_registry_be0c4abcab1e0110985860887aa99435</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>b60c4abcf01e01107adbda2632d40633</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><path>incident-management-systemcrud</path><root_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-03-15 10:11:40</sys_created_on><sys_id>be0c4abcab1e0110985860887aa99435</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Incident Management System(CRUD)</sys_name><sys_package display_value="Incident Management System(CRUD)" source="x_682682_incident">ea6b82b82f1e0110d8cebcb62799b645</sys_package><sys_policy/><sys_scope display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</sys_scope><sys_update_name>sys_ux_page_registry_be0c4abcab1e0110985860887aa99435</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-03-15 10:11:40</sys_updated_on><title>Incident Management System(CRUD)</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>1164971780</payload_hash>
+        <record_name>Incident Management System(CRUD)</record_name>
+        <reverted_from/>
+        <source>c7391b122f010110d8cebcb62799b609</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-01-17 04:21:18</sys_created_on>
+        <sys_id>fc6f8e302f5e0110d8cebcb62799b6bd</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>17e664496300000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application</type>
+        <update_guid>bc6f8e30885e01109acfee5ae1c80bbd</update_guid>
+        <update_guid_history>bc6f8e30885e01109acfee5ae1c80bbd:1164971780</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-15 10:26:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>796fecf37b0a413cb207baae08529310</sys_id>
+        <sys_metadata>be0c4abcab1e0110985860887aa99435</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident Management System(CRUD)</sys_name>
+        <sys_package display_value="Incident Management System(CRUD)" source="x_682682_incident">ea6b82b82f1e0110d8cebcb62799b645</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Incident Management System(CRUD)">ea6b82b82f1e0110d8cebcb62799b645</sys_scope>
+        <sys_scope_delete display_value="">04b2810d45df44109f1daabc61be3e40</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_be0c4abcab1e0110985860887aa99435</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_be0c4abcab1e0110985860887aa99435">fc6f8e302f5e0110d8cebcb62799b6bd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-15 10:26:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
